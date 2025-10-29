@@ -1,5 +1,5 @@
 #include <iostream>
-#include "HugeInt.h"
+#include "HugeInt.hpp"
 
 void f(HugeInt n) {
     HugeInt temp1, temp2;
